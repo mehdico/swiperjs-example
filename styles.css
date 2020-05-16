@@ -1,0 +1,13 @@
+body {
+   overflow: hidden; /* Hide scrollbars */
+ }
+
+.wh100{
+   width: 100vw;height: 100vh;
+}
+
+.slide-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;text-align: center;
+}
